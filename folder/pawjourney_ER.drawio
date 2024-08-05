@@ -446,7 +446,7 @@
             <mxRectangle width="30" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-O8pHyyrXY-9Pu2YQ9lp-60" value="ごはん量&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ユーザーID&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="-O8pHyyrXY-9Pu2YQ9lp-58">
+        <mxCell id="-O8pHyyrXY-9Pu2YQ9lp-60" value="&lt;div&gt;写真&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ユーザーID&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="-O8pHyyrXY-9Pu2YQ9lp-58">
           <mxGeometry x="30" width="150" height="60" as="geometry">
             <mxRectangle width="150" height="60" as="alternateBounds" />
           </mxGeometry>
